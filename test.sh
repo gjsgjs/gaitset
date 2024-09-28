@@ -1,0 +1,1 @@
+python main.py --phase test > test_$(date "+%Y-%m-%d-%H-%M-%S").log
